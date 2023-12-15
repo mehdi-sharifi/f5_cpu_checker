@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  f5_cpu_app:
+    build: ./app
+    container_name: f5_cpu_app
+    env_file:
+      - .env

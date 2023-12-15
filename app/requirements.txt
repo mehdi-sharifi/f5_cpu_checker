@@ -1,0 +1,4 @@
+requests~=2.31.0
+schedule~=1.2.1
+urllib3~=2.1.0
+influxdb~=5.3.1
